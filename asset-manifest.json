@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Simple-Online-Store/static/css/main.a86e1450.css",
+    "main.js": "/Simple-Online-Store/static/js/main.2b49b56f.js",
+    "static/media/logo.png": "/Simple-Online-Store/static/media/logo.03ca0457785dfdbdecbd.png",
+    "index.html": "/Simple-Online-Store/index.html",
+    "main.a86e1450.css.map": "/Simple-Online-Store/static/css/main.a86e1450.css.map",
+    "main.2b49b56f.js.map": "/Simple-Online-Store/static/js/main.2b49b56f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a86e1450.css",
+    "static/js/main.2b49b56f.js"
+  ]
+}
